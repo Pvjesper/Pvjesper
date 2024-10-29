@@ -10,15 +10,15 @@ PyPI :
 ### Audio Signal Processing Simulator (ASPSIM)
 **Sound simulation software built on the image-source method of pyroomacoustics**  
 Features include moving sources and microphones, directional microphones, and adaptive sound reproduction.  
-Code : https://github.com/sounds-research/aspcol  
-Docs : https://sounds-research.github.io/aspcol  
+Code : https://github.com/sounds-research/aspsim  
+Docs : https://sounds-research.github.io/aspsim  
 PyPI : 
 
 ### Audio Signal Processing Core (ASPCORE) 
 **Implementing linear convolutions, including time-varying MIMO filters, usable for streaming signals.**  
-Code : https://github.com/sounds-research/aspcol  
-Docs : https://sounds-research.github.io/aspcol  
-PyPI : 
+Code : https://github.com/sounds-research/aspcore  
+Docs : https://sounds-research.github.io/aspcore  
+PyPI : https://pypi.org/project/aspcore  
 
 ### Riemannian Covariance Estimation (RIECOVEST)
 **Estimation of covariance matrices from noisy signal and noise-only data, built on pyManopt and JAX**  
