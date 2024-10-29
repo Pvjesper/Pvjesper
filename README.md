@@ -1,11 +1,30 @@
 ## ⚡⚡ Hi ⚡⚡
-I'm a PhD student at STADIUS, KU Leuven, researching sound field estimation and sound field control as part of the SOUNDS ETN. Below are some repositories containing code I have written during the project. 
+I'm a PhD student at STADIUS, KU Leuven, researching sound field estimation and sound field control as part of the SOUNDS ETN. Below are four Python packages developed during the project, each of which can be installed and used directly using pip install PKGNAME. 
 
-### Sound field estimation and other audio processing functions
-Code : https://github.com/sounds-research/aspcol
+### Audio Signal Processing Collection (ASPCOL)
+**Sound field estimation and other audio processing functions**  
+Code : https://github.com/sounds-research/aspcol  
+Docs : https://sounds-research.github.io/aspcol  
+PyPI :  
 
-### Covariance estimation on Riemannian manifolds
-Code : https://github.com/sounds-research/riecovest
+### Audio Signal Processing Simulator (ASPSIM)
+**Sound simulation software built on the image-source method of pyroomacoustics**  
+Features include moving sources and microphones, directional microphones, and adaptive sound reproduction.  
+Code : https://github.com/sounds-research/aspcol  
+Docs : https://sounds-research.github.io/aspcol  
+PyPI : 
+
+### Audio Signal Processing Core (ASPCORE) 
+**Implementing linear convolutions, including time-varying MIMO filters, usable for streaming signals.**  
+Code : https://github.com/sounds-research/aspcol  
+Docs : https://sounds-research.github.io/aspcol  
+PyPI : 
+
+### Riemannian Covariance Estimation (RIECOVEST)
+**Estimation of covariance matrices from noisy signal and noise-only data, built on pyManopt and JAX**  
+Code : https://github.com/sounds-research/riecovest  
+Docs : https://sounds-research.github.io/riecovest  
+PyPI : https://pypi.org/project/riecovest  
 
 
 ### SOUNDS ETN
