@@ -5,7 +5,7 @@ I'm a PhD student at STADIUS, KU Leuven, researching sound field estimation and 
 **Sound field estimation and other audio processing functions**  
 Code : https://github.com/sounds-research/aspcol  
 Docs : https://sounds-research.github.io/aspcol  
-PyPI : https://pypi.org/project/aspcol/0.0.1/  
+PyPI : https://pypi.org/project/aspcol/
 
 ### Audio Signal Processing Simulator (ASPSIM)
 **Sound simulation software built on the image-source method of pyroomacoustics**  
