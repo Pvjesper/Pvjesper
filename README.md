@@ -2,7 +2,7 @@
 I'm a PhD student at STADIUS, KU Leuven, researching sound field estimation and sound field control as part of the SOUNDS ETN. Below are four Python packages developed during the project, each of which can be installed and used directly using pip install PKGNAME. 
 
 ### Audio Signal Processing Collection (ASPCOL)
-**Sound field estimation and other audio processing functions**  
+**Sound field estimation and sound field control**  
 Code : https://github.com/sounds-research/aspcol  
 Docs : https://sounds-research.github.io/aspcol  
 PyPI : https://pypi.org/project/aspcol/
@@ -15,7 +15,7 @@ Docs : https://sounds-research.github.io/aspsim
 PyPI : https://pypi.org/project/aspsim/
 
 ### Audio Signal Processing Core (ASPCORE) 
-**Implementing linear convolutions, including time-varying MIMO filters, usable for streaming signals.**  
+**Classic signal processing, e.g. time-varying MIMO filters for streaming signals, discrete Fourier transforms, LMS, or WOLA.**  
 Code : https://github.com/sounds-research/aspcore  
 Docs : https://sounds-research.github.io/aspcore  
 PyPI : https://pypi.org/project/aspcore  
