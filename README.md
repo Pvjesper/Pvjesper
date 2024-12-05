@@ -12,7 +12,7 @@ PyPI : https://pypi.org/project/aspcol/
 Features include moving sources and microphones, directional microphones, and adaptive sound reproduction.  
 Code : https://github.com/sounds-research/aspsim  
 Docs : https://sounds-research.github.io/aspsim  
-PyPI : 
+PyPI : https://pypi.org/project/aspsim/
 
 ### Audio Signal Processing Core (ASPCORE) 
 **Implementing linear convolutions, including time-varying MIMO filters, usable for streaming signals.**  
