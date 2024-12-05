@@ -15,7 +15,8 @@ Docs : https://sounds-research.github.io/aspsim
 PyPI : https://pypi.org/project/aspsim/
 
 ### Audio Signal Processing Core (ASPCORE) 
-**Classic signal processing, e.g. time-varying MIMO filters for streaming signals, discrete Fourier transforms, LMS, or WOLA.**  
+**Classic signal processing**  
+Freatures include time-varying MIMO filters for streaming signals, discrete Fourier transforms, adaptive filters, functions for handling block matrices, covariance estimation, and more. 
 Code : https://github.com/sounds-research/aspcore  
 Docs : https://sounds-research.github.io/aspcore  
 PyPI : https://pypi.org/project/aspcore  
