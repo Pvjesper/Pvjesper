@@ -17,9 +17,9 @@ PyPI : https://pypi.org/project/aspsim/
 ### Audio Signal Processing Core (ASPCORE) 
 **Classic signal processing**  
 Features include time-varying MIMO filters for streaming signals, discrete Fourier transforms, adaptive filters, functions for handling block matrices, covariance estimation, and more.  
-Code : github.com/sounds-research/aspcore  
-Docs : sounds-research.github.io/aspcore  
-PyPI : pypi.org/project/aspcore  
+Code : https://github.com/sounds-research/aspcore  
+Docs : https://sounds-research.github.io/aspcore  
+PyPI : https://pypi.org/project/aspcore  
 
 ### Riemannian Covariance Estimation (RIECOVEST)
 **Estimation of covariance matrices from noisy signal and noise-only data, built on pyManopt and JAX**  
@@ -28,9 +28,9 @@ Docs : https://sounds-research.github.io/riecovest
 PyPI : https://pypi.org/project/riecovest  
 
 ### Rotating Moving Microphone Sound field (RoMMS) dataset
-**Dataset for sound field estimation using a moving microphone**
-Code : github.com/Pvjesper/romms
-Data : doi.org/10.5281/zenodo.15124905
+**Dataset for sound field estimation using a moving microphone**  
+Code : https://github.com/Pvjesper/romms  
+Data : https://doi.org/10.5281/zenodo.15124905  
 
 ### SOUNDS ETN
 Homepage : https://www.sounds-etn.eu/  
