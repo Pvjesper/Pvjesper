@@ -1,5 +1,5 @@
 ## ⚡⚡ Hi ⚡⚡
-I'm a PhD student at STADIUS, KU Leuven, researching sound field estimation and sound field control as part of the SOUNDS ETN. Below are four Python packages developed during the project, each of which can be installed and used directly using pip install PKGNAME. 
+I'm a PhD student at STADIUS, KU Leuven, researching sound field estimation and sound field control as part of the SOUNDS ETN. Below are Python packages developed during the project. 
 
 ### Audio Signal Processing Collection (ASPCOL)
 **Sound field estimation and sound field control**  
