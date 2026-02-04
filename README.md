@@ -49,7 +49,7 @@ Includes time-varying MIMO filters for streaming signals, discrete Fourier trans
 ---
 
 ### Riemannian Covariance Estimation (RIECOVEST)
-> **REstimation of covariance matrices from noisy signal and noise-only data**
+> **Estimation of covariance matrices from noisy signal and noise-only data**
 
 Built on **pyManopt** and **JAX** for efficient Riemannian optimization.
 
