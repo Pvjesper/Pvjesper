@@ -1,6 +1,7 @@
 ## ⚡⚡ Hi ⚡⚡
-I'm a PhD student at STADIUS, KU Leuven, researching sound field estimation and sound field control as part of the SOUNDS ETN. Below are Python packages developed during the project. 
+I research sound field estimation and sound field control, with a particular interest in kernel methods. Below are Python packages containing a variety of signal processing code, implemented in numpy/scipy and JAX. 
 
+## Code
 ### Audio Signal Processing Collection (ASPCOL)
 **Sound field estimation and sound field control**  
 Code : https://github.com/sounds-research/aspcol  
@@ -9,7 +10,7 @@ PyPI : https://pypi.org/project/aspcol/
 
 ### Audio Signal Processing Simulator (ASPSIM)
 **Sound simulation software built on the image-source method of pyroomacoustics**  
-Features include moving sources and microphones, directional microphones, and adaptive sound reproduction.  
+Built on top of pyroomacoustics to easily simulate adaptive sound reproduction.  
 Code : https://github.com/sounds-research/aspsim  
 Docs : https://sounds-research.github.io/aspsim  
 PyPI : https://pypi.org/project/aspsim/
@@ -27,25 +28,8 @@ Code : https://github.com/sounds-research/riecovest
 Docs : https://sounds-research.github.io/riecovest  
 PyPI : https://pypi.org/project/riecovest  
 
+## Datasets
 ### Rotating Moving Microphone Sound field (RoMMS) dataset
 **Dataset for sound field estimation using a moving microphone**  
 Code : https://github.com/Pvjesper/romms  
 Data : https://doi.org/10.5281/zenodo.15124905  
-
-### SOUNDS ETN
-Homepage : https://www.sounds-etn.eu/  
-Code : https://github.com/SOUNDS-RESEARCH  
-<!--
-**Pvjesper/Pvjesper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
